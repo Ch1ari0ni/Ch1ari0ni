@@ -83,6 +83,11 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-0a3d2e?style=for-the-badge)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-0a3d2e?style=for-the-badge)
 
+**IoT & Embedded**
+
+![Arduino](https://img.shields.io/badge/Arduino-0a3d2e?style=for-the-badge&logo=arduino&logoColor=00ff41)
+![MQTT](https://img.shields.io/badge/MQTT-0a3d2e?style=for-the-badge&logo=eclipse-mosquitto&logoColor=00ff41)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Projects
@@ -94,18 +99,6 @@
 ► CTF IIoT Dinâmico
   Industrial cybersecurity lab
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
