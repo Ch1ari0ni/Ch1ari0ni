@@ -63,33 +63,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0a3d2e?style=for-the-badge\&logo=python\&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a3d2e?style=for-the-badge\&logo=javascript\&logoColor=00ff41)
-![SQL](https://img.shields.io/badge/SQL-0a3d2e?style=for-the-badge\&logo=postgresql\&logoColor=00ff41)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-0a3d2e?style=for-the-badge\&logo=docker\&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0a3d2e?style=for-the-badge\&logo=linux\&logoColor=00ff41)
-![AWS](https://img.shields.io/badge/AWS-0a3d2e?style=for-the-badge\&logo=amazonaws\&logoColor=00ff41)
-
-**Security Tools**
-
-![Nmap](https://img.shields.io/badge/Nmap-0a3d2e?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a3d2e?style=for-the-badge)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-0a3d2e?style=for-the-badge)
-
-**IoT & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-0a3d2e?style=for-the-badge&logo=arduino&logoColor=00ff41)
-![MQTT](https://img.shields.io/badge/MQTT-0a3d2e?style=for-the-badge&logo=eclipse-mosquitto&logoColor=00ff41)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Projects
 
 ```txt id="m1rkxg"
